@@ -56,3 +56,13 @@ Future improvements:
 Author,
 
 S Spandana Singh
+
+Sample Output:
+
+Main Menu:
+
+![Main Menu](screenshots/menu.png)
+
+Student Report:
+
+![Student Report](screenshots/output.png)
