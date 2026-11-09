@@ -4,26 +4,39 @@ This is my first C programming project, created during my first semester of engi
 What this project does:
 
 ->Add student details
+
 ->Display all student records
+
 ->Search for a student using the roll number
+
 ->Calculate total marks and average
+
 ->Assign grades based on the average
+
 ->Menu-driven interface
 
 Concepts used:
 
 ->Variables
+
 ->Arrays
+
 ->Functions
+
 ->Loops
+
 ->if-else
+
 ->switch
+
 ->Menu-driven programming
 
 How to run:
 
 ->Open main.c in Dev-C++ or any C compiler.
+
 ->Compile the program.
+
 ->Run it and follow the menu options.
 
 Why I made this:
@@ -33,9 +46,13 @@ I wanted to build a small project that combines the topics I learned in my first
 Future improvements:
 
 ->Save student records using files
+
 ->Edit and delete records
+
 ->Improve the user interface
+
 ->Add more features as I learn new concepts
 
 Author,
+
 S Spandana Singh
